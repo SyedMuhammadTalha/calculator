@@ -1,0 +1,28 @@
+
+.main,h3 {
+ border: 2px solid black;
+ width:250px;
+ margin: 0 auto;
+}
+.result{
+    width: 97%;
+    color: maroon;
+    background-color: whitesmoke;
+}
+.clearbtn{
+    width: 100%;
+    margin-top: 2px;
+    background-color: rgba(71, 71, 71, 0.993);
+    color: rgb(204, 203, 203);
+}
+.btn{
+    background-color: rgb(110, 110, 180);
+    width: 23%;
+    margin: 1px;
+    color: white;
+}
+.halfbtn{
+    background-color: silver;
+    width: 59.5px;
+    margin-top: 2px;
+}
